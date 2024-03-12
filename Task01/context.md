@@ -1,17 +1,36 @@
-# Вариант №6 - Сервис доставки
+# Контекст решения
 
+![structurizr-SystemContext-001-001](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/c2ad7a31-8da1-46b6-8090-fa134517eec5)
 
-## Приложение должно содержать следующие данные:
-- Пользователь
-- Посылка
-- Доставка
+# Код
+```
+workspace {
 
-## Реализовать API:
-- Создание нового пользователя
-- Поиск пользователя по логину
-- Поиск пользователя по маске имя и фамилии
-- Создание посылки
-- Получение посылок пользователя
-- Создание доставки от пользователя к пользователю
-- Получение информации о доставке по получателю
-- Получение информации о доставке по отправителю
+    model {
+        user = person "Пользователь"
+        softwareSystem = softwareSystem "Сайт сервиса доставки" {
+            webapp = container "Web Application" {
+                user -> this "Регистрация, поиск пользователей, добавление посылки, получение и изменение информации о доставке"
+            }
+            container "Database" {
+                webapp -> this "Reads from and writes to"
+            }
+        }
+    }
+
+    views {
+        systemContext softwareSystem {
+            include *
+            autolayout lr
+        }
+
+        container softwareSystem {
+            include *
+            autolayout lr
+        }
+
+        theme default
+    }
+
+}
+```
