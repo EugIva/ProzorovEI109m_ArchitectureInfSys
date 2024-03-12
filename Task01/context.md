@@ -1,4 +1,4 @@
-# Контекст решения
+# Диаграмма С1 - Контекстная диаграмма
 
 ![structurizr-SystemContext-001-001](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/c2ad7a31-8da1-46b6-8090-fa134517eec5)
 
