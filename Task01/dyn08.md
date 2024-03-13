@@ -1,3 +1,3 @@
-# Диаграмма С1 - Контекстная диаграмма
+# Динамическая диаграмма 8 - Получение информации о доставке по отправителю
 
-![structurizr-SystemContext-001](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/69fb1127-7cdb-456f-a670-11c7f19a3637)
+![structurizr (8)](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/854f4d0a-f543-4744-a6ed-3b516b19b43d)
