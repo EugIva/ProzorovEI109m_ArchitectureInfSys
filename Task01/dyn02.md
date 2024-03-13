@@ -1,3 +1,4 @@
-# Диаграмма С1 - Контекстная диаграмма
+# Динамическая диаграмма 2 - Поиск пользователя по логину
 
-![structurizr-SystemContext-001](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/69fb1127-7cdb-456f-a670-11c7f19a3637)
+![structurizr (2)](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/41020ea7-0871-4775-996a-dbea4e74101b)
+
