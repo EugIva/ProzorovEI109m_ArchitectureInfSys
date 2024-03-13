@@ -1,3 +1,4 @@
-# Диаграмма С1 - Контекстная диаграмма
+# Динамическая диаграмма 4 - Создание посылки
 
-![structurizr-SystemContext-001](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/69fb1127-7cdb-456f-a670-11c7f19a3637)
+![structurizr (4)](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/8eab9499-a69d-4e82-a904-36f51549d55a)
+
