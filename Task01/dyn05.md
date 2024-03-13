@@ -1,3 +1,4 @@
-# Диаграмма С1 - Контекстная диаграмма
+# Динамическая диаграмма 5 - Получение посылок пользователя
 
-![structurizr-SystemContext-001](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/69fb1127-7cdb-456f-a670-11c7f19a3637)
+![structurizr (5)](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/a7bd3424-f4f9-4fd5-a21a-f730124b34b3)
+
