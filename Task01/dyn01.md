@@ -1,3 +1,3 @@
-# Диаграмма С1 - Контекстная диаграмма
+# Динамическая диаграмма 1
 
-![structurizr-SystemContext-001](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/69fb1127-7cdb-456f-a670-11c7f19a3637)
+![structurizr (1)](https://github.com/EugIva/ProzorovEI109m_ArchitectureInfSys/assets/145147798/9645bab9-5c1f-4807-bb17-be0afdd46579)
