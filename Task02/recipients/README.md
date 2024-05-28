@@ -1,5 +1,6 @@
 ### `/create_recipient/`
 
+
 - **Метод:** POST
 - **Тело Запроса:**
   ```json
